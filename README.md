@@ -1,5 +1,6 @@
 # About Me
 Hi there! 👋
+
 I'm a passionate Data Analyst and Business Intelligence Specialist with 7+ years of experience turning raw data into actionable insights that drive strategic decision-making. I thrive on designing data-driven solutions, building scalable pipelines, and creating dynamic visualizations that help teams unlock the true potential of their data.
 
 I enjoy collaborating on projects where I can combine my skills in analytics, automation, and problem-solving to improve business processes and deliver measurable results. In addition to technical expertise, I value mentorship, team growth, and creating inclusive and supportive environments.
