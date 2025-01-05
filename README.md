@@ -9,11 +9,17 @@ When I'm not working with data, you can find me exploring new technologies, cont
 # Technical Proficiencies
 
 Programming Languages: Python (Pandas, NumPy, scikit-learn, geopandas), R, SQL
+
 Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+
 Data Engineering: ETL processes, Data Modeling, Alteryx
+
 Database Systems: MS SQL Server, PostgreSQL, MySQL
+
 Cloud Platforms: Azure
+
 Tools & Platforms: Jira, Salesforce.com, Google Analytics, Excel (Advanced VBA & Macros)
+
 Methodologies: Agile (Scrum Certified), Lean Six Sigma, Data-Driven Decision Making, PMP
 
 Feel free to explore my repositories to see how I approach solving real-world problems using data. 
